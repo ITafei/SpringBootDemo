@@ -1,4 +1,4 @@
-package com.itheima.demo;
+package com.itheima;
 
 import org.elasticsearch.action.admin.indices.create.CreateIndexResponse;
 import org.elasticsearch.action.index.IndexResponse;
